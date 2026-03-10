@@ -57,9 +57,11 @@ Je suis un développeur passionné par les défis techniques et la découverte d
 
 ### 📊 Mes Statistiques
 
+### 📊 Mes Statistiques
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anton1P&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Statistiques de Antonin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1P&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Langages les plus utilisés" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Anton1P&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Statistiques de Antonin" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anton1P&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Langages les plus utilisés" />
 </p>
 
 ---

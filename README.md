@@ -1,52 +1,61 @@
 # Bonjour, je suis Antonin Parédé 👋
 
-<h3 align="center">Apprenti Ingénieur & Manager de Projet | Data, DevOps & IA 🚀</h3>
+<h3 align="center">Développeur Web Junior & Apprenti Manager de Projet DATA / IA 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Science+%26+Machine+Learning;DevOps+%26+Cloud+Infrastructure;Web+Development+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Data+Science+%26+Databases;UX%2FUI+Design+%26+SEO" alt="Typing SVG" />
 </p>
 
-Je suis actuellement en 1ère année de **Mastère Manager de Projet Data, DevOps & IA** à LA MANU (Le Havre, Normandie). Passionné par l'automatisation, le traitement de la donnée et le développement d'infrastructures robustes, j'évolue en entreprise via un contrat d'apprentissage pour mettre en pratique ces concepts sur des architectures réelles.
+Je suis un développeur passionné par les défis techniques et la découverte de nouvelles technologies. Après l'obtention de mon BUT Métiers du Multimédia et de l'Internet, je poursuis actuellement un Mastère Manager de Projet DATA & IA à LA MANU (Le Havre). Je recherche constamment à faire évoluer mes compétences, aussi bien techniquement qu'humainement, au travers de projets concrets et d'expériences en entreprise.
 
 ---
 
-### 🛠️ Technologies & Outils
+### 🎓 Parcours & Certifications
 
-*Voici un aperçu de ma stack technique et des outils que j'explore au quotidien :*
+- 📘 **Mastère Manager de Projet DATA & IA** - LA MANU, Le Havre (2025 - 2027)
+- 🎓 **BUT MMI** - IUT de Rouen, Elbeuf (2021 - 2024)
+- 🏆 **Certification OPQUAST "Qualité Web"** - Niveau Confirmé (750 pts) - Valide jusqu'en 2027
 
-**🤖 Data & IA**
+---
+
+### 🛠️ Compétences Techniques
+
+**💻 Développement Web & Back-end**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-**⚙️ DevOps & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-**💻 Développement**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
+**🗄️ Data & Infrastructures**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API" />
+</p>
+
+**🎨 CMS, SEO & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prestashop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="Prestashop" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 </p>
 
 ---
 
-### 🔭 Projets en cours et réalisés
+### 🔭 Projets & Expériences Récentes
 
-- 🌱 Je me perfectionne actuellement sur l'automatisation des déploiements (CI/CD) et la création de modèles de Machine Learning.
-- 🎮 Créateur de **[OrganizedCrewBattle](https://github.com/Anton1P/OrganizedCrewBattle)**, un outil développé en PHP.
-- 💼 J'applique au quotidien les bonnes pratiques de développement et d'architecture dans le cadre de mon alternance.
+- 🌐 **Plateforme Communautaire (2025) :** Création intégrale d'une plateforme (HTML, CSS, JS, PHP, MySQL, API) regroupant des centaines de membres.
+- 🎮 **Développement de Jeu Vidéo (2024) :** Jeu codé en C# avec le moteur Unity.
+- 💼 **Corame (2023-2024) :** Stage de 6 mois. Création et hébergement d'un site e-commerce sous Prestashop, optimisation du référencement naturel (SEO) et maintenance WordPress.
+- 💻 **Projets Académiques (2023) :** Création en équipe d'un nouveau site web pour le département MMI et développement d'un CMS sur mesure (PHP/MySQL).
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Mes Statistiques
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anton1P&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Statistiques de Antonin" />
@@ -55,13 +64,13 @@ Je suis actuellement en 1ère année de **Mastère Manager de Projet Data, DevOp
 
 ---
 
-### 📫 Comment me contacter
+### 📫 Me Contacter & Portfolio
 
 <p align="left">
-  <a href="URL_DE_VOTRE_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/antonin-parédé-mmi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:VOTRE_ADRESSE_EMAIL">
+  <a href="mailto:antonin.parede@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
